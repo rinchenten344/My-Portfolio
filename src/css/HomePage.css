@@ -1,0 +1,55 @@
+/* Navigation Bar Styles */
+nav ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  background: #444;
+}
+
+nav ul li {
+  margin: 0 15px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav ul li a:hover {
+  color: #e8491d;
+}
+
+/* Header Styles - Updated */
+header {
+  background: #333;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+  border-bottom: #bbb 1px solid;
+}
+
+header h1 {
+  margin-top: 0;
+}
+
+/* Section Styles - Updated for Anchors */
+section {
+  padding: 40px 20px;
+  background: #fff;
+  margin: 20px 0;
+}
+
+section h2 {
+  margin-top: 0;
+}
+
+/* Footer Styles - Updated */
+footer {
+  background: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+  margin-top: 20px;
+}
