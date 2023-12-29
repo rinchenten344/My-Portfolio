@@ -1,11 +1,10 @@
-import React from "react";
 import "../css/ProjectsGrid.css"; // Make sure this CSS file is in place
 import countImage from "../assets/count.png";
 import studentImage from "../assets/studentlist.png";
 import firstImage from "../assets/first-project.png";
 import todoList from "../assets/TodoList.png";
 import myPortfolio from "../assets/My-Porfolio.png";
-import backEnd from "../assets/Backend.png";
+
 const projects = [
   {
     title: "Project 1",
