@@ -1,0 +1,3 @@
+[submodule "Project-Portfolio"]
+    path = Project-Portfolio
+    url = https://github.com/username/project-portfolio-submodule.git
